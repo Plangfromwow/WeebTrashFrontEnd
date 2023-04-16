@@ -1,0 +1,4 @@
+* Colors * 
+Lavadude82: borders:#210850;background:#03043f;
+Lavadude82: buttons and inner objects color #50046d
+Lavadude82: text color #ffffff
