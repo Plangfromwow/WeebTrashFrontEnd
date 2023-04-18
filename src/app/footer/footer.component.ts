@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { faGithub } from '@fortawesome/free-brands-svg-icons';
+import { faHeart } from '@fortawesome/free-regular-svg-icons';
 
 @Component({
   selector: 'app-footer',
@@ -9,6 +10,7 @@ import { faGithub } from '@fortawesome/free-brands-svg-icons';
 export class FooterComponent {
 
   faGithub = faGithub;
+  faLove = faHeart;
 
 
 }
